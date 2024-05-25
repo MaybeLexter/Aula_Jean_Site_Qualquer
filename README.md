@@ -1,5 +1,8 @@
 # Aula_Jean_Site_Qualquer
 
+É um site de viagens simples e minimalista que procura o contato direto com o comprador de passagens áreas de forma rápida e interativa. Além é claro de poder receber todas as ofertas coletadas pela nossa IA.
+
+
 ## Descrição do HTML e CSS
 
 Este documento markdown fornece uma visão geral do código HTML e CSS fornecido e explica brevemente cada seção.
